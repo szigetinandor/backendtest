@@ -1,0 +1,9 @@
+{
+  "name": "szigetinandor/backendtest",
+  "description": "Backend task for Delocal Zrt.",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
