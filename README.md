@@ -15,6 +15,9 @@ Delocal Zrt. - PHP developer test task
 
 **Fields:** `name, email, tel, address`
 
+## Installation
+`composer install`
+
 
 ## Configuration
 
